@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(Copy-Item *)",
+      "PowerShell(npm cache *)",
+      "PowerShell(npm config *)",
+      "PowerShell(Get-Content *)",
+      "Bash(npm install *)",
+      "Bash(npx ts-node *)"
+    ]
+  }
+}
